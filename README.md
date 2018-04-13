@@ -10,6 +10,7 @@ We created **Where ART Thou** with the vision that discovering new and amazing a
 
 **Where ART Thou** connects NYC residents and tourists to local galleries near them. With an easy to use interface, our app allows users to search for art galleries by simply typing in their zip code.
 
+![Screenshot](/gallery/public/where-art-thou-screen-1.png)
 
 ## Future Steps
 
