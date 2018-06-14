@@ -2,7 +2,7 @@
   "name": "gallery",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://romie151.github.io/Where-Art-Thou",
+  "homepage": "http://ChaltinPagan.github.io/Where-Art-Thou",
   "dependencies": {
     "axios": "^0.17.1",
     "google-map-react": "^0.32.0",
